@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Island Wanderer
 description: mokupuni he poe aea
+gem "github-pages", group: :jekyll_plugins
