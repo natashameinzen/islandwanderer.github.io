@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Island Wanderer
 
 You can use the [editor on GitHub](https://github.com/islandwanderer/islandwanderer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
